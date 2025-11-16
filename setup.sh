@@ -2,6 +2,8 @@
 #
 # This script automates the full setup and training launch for nanochat
 # on an aarch64 machine with CUDA 13.0 and Ubuntu 24.04.
+# Credit: Andrej Karpathy - https://github.com/karpathy/nanochat
+# Credit: Alexander Falk - https://github.com/karpathy/nanochat/discussions/28#discussioncomment-14756733
 #
 # It includes all fixes from our debugging session:
 # 1. Installs 'clang' system dependency for Triton.
